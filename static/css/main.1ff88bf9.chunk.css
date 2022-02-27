@@ -1,0 +1,19 @@
+@import url(https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/plus-jakarta-display.min.css);
+/*!
+
+=========================================================
+* Vision UI Free React - v1.0.0
+=========================================================
+
+* Product Page: https://www.creative-tim.com/product/vision-ui-free-react
+* Copyright 2021 Creative Tim (https://www.creative-tim.com/)
+* Licensed under MIT (https://github.com/creativetimofficial/vision-ui-free-react/blob/master LICENSE.md)
+
+* Design and Coded by Simmmple & Creative Tim
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+*/.App{text-align:center}body{background:linear-gradient(135deg,#c005d9,#7317aa 25%,#312782 52%,#2168aa 82%,#05dbf2);min-height:100vh}.App-logo{height:40vmin;pointer-events:none}.dashboard-background{position:relative}coin-stats-portfolio-widget>div:first-child>div:nth-child(3),coin-stats-portfolio-widget>div:first-child>table:nth-child(2)>tbody:first-child>tr:nth-child(15),coin-stats-portfolio-widget>div:first-child>table:nth-child(2)>tbody:first-child>tr:nth-child(16){display:none}@media (prefers-reduced-motion:no-preference){.App-logo{-webkit-animation:App-logo-spin 20s linear infinite;animation:App-logo-spin 20s linear infinite}}.App-header{background-color:#282c34;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:calc(10px + 2vmin);color:#fff}.App-link{color:#61dafb}@-webkit-keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+/*# sourceMappingURL=main.1ff88bf9.chunk.css.map */
